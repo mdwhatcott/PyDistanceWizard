@@ -1,7 +1,7 @@
 from proj.postal_code_database import PostalCodeDatabase
 from proj.radius_search import RadiusSearch
-from DistanceWizard.boundary_wizard import BoundaryWizard
-from DistanceWizard.distance_wizard import DistanceWizard
+from api.boundary_wizard import BoundaryWizard
+from api.distance_wizard import DistanceWizard
 import proj.zip_code_sqlite_statements
 import proj.postal_code_sqlite_statements
 

@@ -1,6 +1,6 @@
-from DistanceWizard.coordinate import Coordinate
-from DistanceWizard.measurement import Measurement
-from DistanceWizard.distance_wizard import DistanceWizard
+from api.coordinate import Coordinate
+from api.measurement import Measurement
+from api.distance_wizard import DistanceWizard
 
 def main():
 

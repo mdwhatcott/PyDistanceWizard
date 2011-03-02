@@ -1,5 +1,5 @@
 from proj.postal_code_database import PostalCodeDatabase
-from DistanceWizard.distance_wizard import DistanceWizard
+from api.distance_wizard import DistanceWizard
 from proj.distance_calculator import DistanceCalculator
 import proj.zip_code_sqlite_statements
 import proj.postal_code_sqlite_statements

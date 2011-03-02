@@ -1,5 +1,5 @@
-from DistanceWizard.coordinate import Coordinate
-from DistanceWizard.measurement import Measurement
+from api.coordinate import Coordinate
+from api.measurement import Measurement
 
 class DistanceCalculator(object):
 
